@@ -623,8 +623,9 @@ if (typeof module !== 'undefined' && require.main === module) {
 }
 }
 
-//---------------------------------------------------------------
-// Hasta aquí el parser generado por JISON. 
+
+
+
 //---------------------------------------------------------------
 
 
@@ -642,9 +643,6 @@ function main () {
             var resultado = ejecutar (temp);
             resultado = resultado.toString ();
             alert (resultado);
-            
-            //var dias = [];
-            
             converted.innerHTML = resultado;
             
          } catch (e) {
