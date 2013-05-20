@@ -641,8 +641,7 @@ function main () {
             var resultado = ejecutar (temp);
             resultado = resultado.toString ();
             alert (resultado);
-            
-            
+            alert (resultado);
             
             converted.innerHTML = resultado;
             

@@ -35,9 +35,9 @@
          <button id="button1" type=button onClick="main();">Crear Entrenamiento</button> <button id="button2" type=reset>Limpiar Texto</button>      
          </pre>
       </form>	
-      <!--
+	
       <p><b>Resultado del Parsing ...</p>
-      <span class="output" id="converted"></span> -->
+      <span class="output" id="converted"></span>
       
 	
 	<!--	
