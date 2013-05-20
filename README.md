@@ -42,6 +42,9 @@ Curso: 3º Grado en Ingeniería Informática. (Itinerario: computación).
  
  + index.html y result.html (conten/result.html): contienen la definición de las dos páginas web que alojan el 
          contenido del proyecto, actuando como interfaz de usuario.
+
+ + content/: aloja el fichero con la página web secundaria en la que se muestran las tablas finales.
+	+ content/result.html: aloja la web secundaria.
          
          
 ==================================================================================================================
